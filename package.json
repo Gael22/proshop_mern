@@ -1,0 +1,22 @@
+{
+  "name": "proshop_mern",
+  "version": "1.0.0",
+  "description": "Mern Shopping cart app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gael22/proshop_mern.git"
+  },
+  "author": "Gael Gohoungo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gael22/proshop_mern/issues"
+  },
+  "homepage": "https://github.com/Gael22/proshop_mern#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
